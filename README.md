@@ -3,4 +3,4 @@
 
 
 ## NG-2 HTTP请求
-[getQuery](ng2/ng2-getQuery.md)
+[get请求：getQuery](ng2/ng2-getQuery.md)
