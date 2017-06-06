@@ -3,6 +3,6 @@
 
 
 ## NG-2 HTTP请求
-1. [get请求：getQuery](ng2/ng2-getQuery.md)
+1. get请求：[getQuery](ng2/ng2-getQuery.md)
 
-2. [post请求：postQuery](./ng2/ng2-postQuery.md)
+2. post请求：[postQuery](./ng2/ng2-postQuery.md)
