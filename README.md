@@ -21,7 +21,10 @@
 * push到远程服务端
     > git push 自己定义的源 自己的分支 
 
+### 需要用到的GIT指令
 [一些常用的git指令](gitInstructions/gitInstructions.md)
+
+--- 
 
 ## 一些常用的API
 [后台获得的时间戳转换](timeStamp/timeStamp.md)
