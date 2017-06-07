@@ -1,5 +1,5 @@
 ##  工作流程
-### 上班
+##### 上班
 * 切换到MES分支
     > git checkout mes
 * 更新代码
@@ -11,7 +11,7 @@
 * 更新代码
     > git pull    
 
-### 下班
+##### 下班
 * 查看所有未add的代码
     > git status
 * 添加到本地仓库
@@ -21,7 +21,7 @@
 * push到远程服务端
     > git push 自己定义的源 自己的分支 
 
-### 需要用到的GIT指令
+##### 需要用到的GIT指令
 [一些常用的git指令](gitInstructions/gitInstructions.md)
 
 --- 
