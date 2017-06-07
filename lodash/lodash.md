@@ -1,6 +1,7 @@
 ## 使用方法
 + NG2使用在头部使用
-    > import * as _ from 'lodash';  _ 须写在 constructor 函数内。
+    > import * as _ from 'lodash';  
+     _ 须写在 constructor 函数内。
 + 其他方法参照官方文档：[lodash中文文档](http://lodashjs.com/docs/)
 
 ---
