@@ -12,13 +12,13 @@
     > git pull    
 
 ##### 下班
-* 查看所有未add的代码
++ 查看所有未add的代码
     > git status
-* 添加到本地仓库
++ 添加到本地仓库
     > git add .   (add .是添加所有修改的)
-* 添加到远程仓库
++ 添加到远程仓库
     > git commit -m '这里写你的注释'
-* push到远程服务端
++ push到远程服务端
     > git push 自己定义的源 自己的分支 
 
 ##### 需要用到的GIT指令
@@ -26,9 +26,9 @@
 
 --- 
 
-## 一些常见的问题
-[后台获得的时间戳转换](timeStamp/timeStamp.md)
-
+## 一些知识点
++ [后台获得的时间戳转换](timeStamp/timeStamp.md)
++ **Lodash**[常用的Lodash方法](lodash/lodash.md)
 ---
 
 ## NG-2 HTTP请求
