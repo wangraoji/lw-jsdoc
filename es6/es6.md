@@ -1,6 +1,6 @@
 ##  ES6入门
 
-####    ES6用法  
+####    ES6环境支持 
   
 ```
     <!-- 加载Traceur编译器 -->
@@ -29,4 +29,4 @@
     </script>
 ```
 
-+ 注意，script标签的type属性的值是module(或者traceur)，而不是text/javascript。这是Traceur编译器识别ES6代码的标识，编译器会自动将所有type=module的代码编译为ES5，然后再交给浏览器执行。    
+注意，script标签的type属性的值是module(或者traceur)，而不是text/javascript。这是Traceur编译器识别ES6代码的标识，编译器会自动将所有type=module的代码编译为ES5，然后再交给浏览器执行。    
