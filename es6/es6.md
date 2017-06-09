@@ -685,3 +685,5 @@ Class之间可以通过extends关键字，实现继承。
     }
     Bar.classMethod()  // hello too
 ```
+
+更多请访问：[阮一峰ES6](http://es6.ruanyifeng.com/)
