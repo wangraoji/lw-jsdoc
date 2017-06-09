@@ -27,6 +27,10 @@
 --- 
 
 ## 一些知识点
++ **console.log输出**：
+    > var log = console.log.bind(console);  
+    > log(xxx);
+
 + **时间戳**：[后台获得的时间戳转换](timeStamp/timeStamp.md)  
 
 + **Lodash**：[常用的Lodash方法](lodash/lodash.md)  
