@@ -27,8 +27,11 @@
 --- 
 
 ## 一些知识点
-+ **时间戳**：[后台获得的时间戳转换](timeStamp/timeStamp.md)
-+ **Lodash**：[常用的Lodash方法](lodash/lodash.md)
++ **时间戳**：[后台获得的时间戳转换](timeStamp/timeStamp.md)  
+
++ **Lodash**：[常用的Lodash方法](lodash/lodash.md)  
+
++ **ES6使用**：[ES6基础语法文档](es6/es6.md)
 ---
 
 ## NG-2 HTTP请求
