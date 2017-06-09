@@ -2,7 +2,7 @@
 + [ES6环境支持](#环境支持)
 + [ES6中是否包含字符串三种新方法](#是否包含字符串三种新方法)
 + [ES6 repeat()原字符串重复](#原字符串重复)
-+ <font face="STCAIYUN">我是&emsp;华文彩云</font>
++ <font face="STCAIYUN">我是&emsp;华&nbsp;文彩云</font>
 
 
 #####    环境支持 
