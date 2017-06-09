@@ -101,7 +101,7 @@
 ---
 
 ###    检测值
-Number.isFinite()用来检测是否非无穷。
+**Number.isFinite()**：用来检测是否非无穷。
 
 ```
     Number.isFinite(15); // true
@@ -114,7 +114,7 @@ Number.isFinite()用来检测是否非无穷。
     Number.isFinite(true); // false
 ```
 
-Number.isNaN()用来检测是否NaN。
+**Number.isNaN()**：用来检测是否NaN。
 
 ```
     Number.isNaN(NaN); // true
@@ -123,7 +123,7 @@ Number.isNaN()用来检测是否NaN。
     Number.isNaN(true); // false
 ```
 
-Number.isInteger()用来判断一个值是否为整数。需要注意的是，在JavaScript内部，整数和浮点数是同样的储存方法，所以3和3.0被视为同一个值。
+**Number.isInteger()**：用来判断一个值是否为整数。需要注意的是，在JavaScript内部，整数和浮点数是同样的储存方法，所以3和3.0被视为同一个值。
 
 ```
     Number.isInteger(25) // true
