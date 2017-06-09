@@ -30,6 +30,7 @@
 + **console.log输出**：
     > var log = console.log.bind(console);  
     > log(xxx);
++ **Promise**：[用来传递异步操作](peomise/peomise.md)
 
 + **时间戳**：[后台获得的时间戳转换](timeStamp/timeStamp.md)  
 
