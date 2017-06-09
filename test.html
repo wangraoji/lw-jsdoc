@@ -4,16 +4,25 @@
 <head>
   <title></title>
   <meta charset="UTF-8">
+  <!-- 加载Traceur编译器 -->
+  <script src="./traceur.js" type="text/javascript"></script>
+  <!-- 将Traceur编译器用于网页 -->
+  <script src="./bootstarp.js" type="text/javascript"></script>
 
+  <script type="module">
+      let log = console.log.bind(console);
+      let a = 1;
+      log(a); // 1
+  </script>
 </head>
 
 <body>
 
 </body>
 <script>
-    var log = console.log.bind(console);
-    
-   
+  var log = console.log.bind(console);
+
+
     // log(ceshi)
 
 </script>
