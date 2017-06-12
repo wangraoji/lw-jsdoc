@@ -43,6 +43,8 @@
 + **NG2 bootstarp样式**：[bootstarp样式](http://valor-software.com/ngx-bootstrap)
 
 + **NG2资源大全**：[资源大全](https://github.com/ascode/awesome-ng2)
+
++ **angularjs2 一些报错的概览（数据为json格式）**：[angularjs2 一些报错的概览（数据为json格式）](ng2/ng2-errors.md)
 ---
 
 ## NG-2 HTTP请求
