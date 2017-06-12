@@ -27,11 +27,22 @@
 --- 
 
 ## 一些知识点
++ **console.log输出**：
+    > var log = console.log.bind(console);  
+    > log(xxx);
++ **Promise**：[用来传递异步操作](peomise/peomise.md)
+
 + **时间戳**：[后台获得的时间戳转换](timeStamp/timeStamp.md)  
 
 + **Lodash**：[常用的Lodash方法](lodash/lodash.md)  
 
 + **ES6使用**：[ES6基础语法文档](es6/es6.md)
+
++ **NG2一些组件**：[ng2组件](https://github.com/brillout/awesome-angular-components)
+
++ **NG2 bootstarp样式**：[bootstarp样式](http://valor-software.com/ngx-bootstrap)
+
++ **NG2资源大全**：[资源大全](https://github.com/ascode/awesome-ng2)
 ---
 
 ## NG-2 HTTP请求
