@@ -45,10 +45,12 @@
 + **NG2资源大全**：[资源大全](https://github.com/ascode/awesome-ng2)
 ---
 
-## NG-2 HTTP请求
+## NG-2 相关
 
 1. **get请求**：[getQuery](ng2/ng2-getQuery.md)
 
 2. **post请求**：[postQuery](./ng2/ng2-postQuery.md)
+
+3。 **NG报错预览**：[errors](./ng2/ng2-errors.md)
 
 --- 
