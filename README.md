@@ -38,13 +38,6 @@
 
 + **ES6使用**：[ES6基础语法文档](es6/es6.md)
 
-+ **NG2一些组件**：[ng2组件](https://github.com/brillout/awesome-angular-components)
-
-+ **NG2 bootstarp样式**：[bootstarp样式](http://valor-software.com/ngx-bootstrap)
-
-+ **NG2资源大全**：[资源大全](https://github.com/ascode/awesome-ng2)
-
-+ **angularjs2 一些报错的概览（数据为json格式）**：[angularjs2 一些报错的概览（数据为json格式）](ng2/ng2-errors.md)
 ---
 
 ## NG-2 相关
@@ -55,6 +48,11 @@
 
 3. **post请求**：[postQuery](./ng2/ng2-postQuery.md)
 
-4. **NG报错预览**：[errors](./ng2/ng2-errors.md)
+4. **NG 报错预览**：[errors](./ng2/ng2-errors.md)
 
+5. **NG2 一些组件**：[ng2组件](https://github.com/brillout/awesome-angular-components)
+
+6. **NG2 bootstarp样式**：[bootstarp样式](http://valor-software.com/ngx-bootstrap)
+
+7. **NG2 资源大全**：[资源大全](https://github.com/ascode/awesome-ng2)
 --- 
