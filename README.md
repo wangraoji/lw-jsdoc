@@ -49,7 +49,7 @@
 
 ## NG-2 相关
 
-1. **ng2环境安装**：[ng2-Cil手脚架](ng2/ng2-ng2- componentCommunication.md)
+1. **ng2环境安装**：[ng2-Cil手脚架](ng2/ng2-ng2-componentCommunication.md)
 
 2. **get请求**：[getQuery](ng2/ng2-getQuery.md)
 
