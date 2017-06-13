@@ -54,7 +54,7 @@
 
 * 然后 **ng serve**启动项目。
 
-* 这时候我们如果打开 **http:\/\/localhost:4200** 是看不到的，还需要在**app.component.html**里面加**\<app-home\>\<\/app-home\>** 用来展示子组件
+* 这时候我们如果打开 **http:\/\/localhost:4200** 是看不到的，还需要在**app.component.html**里面加  **\<app-home\>\<\/app-home\>** 用来展示子组件
 
 
 
