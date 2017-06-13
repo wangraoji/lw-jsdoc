@@ -39,5 +39,5 @@
     - 输入 **ng-serve** 启动项目：  
     ![04](../imgs/04.png)  
 
-    - 打开浏览器，**http://localhost:4200**
+    - 打开浏览器，**http:\/\/localhost:4200**
     ![05](../imgs/05.png) 
