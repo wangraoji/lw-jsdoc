@@ -48,7 +48,7 @@
 
 3. **post请求**：[postQuery](./ng2/ng2-postQuery.md)
 
-4. **NG 报错预览**：[errors](./ng2/ng2-errors.md)
+4. **NG2 报错预览**：[errors](./ng2/ng2-errors.md)
 
 5. **NG2 一些组件**：[ng2组件](https://github.com/brillout/awesome-angular-components)
 
