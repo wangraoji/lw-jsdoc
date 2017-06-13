@@ -41,8 +41,7 @@
 ```
 
 * 关于引入我就不多说了，可查询NG2官网。可以看到上面代码中多了2个 @Input装饰器   
-   上面的代码设置了两个可供父组件传入的属性:isShow和name,当设置name属性时，set name(name:string)方法会执行,如果不需要处   
-   理setter，那么用isShow的形式，一行代码声明即可.
+   上面的代码设置了两个可供父组件传入的属性**isShow**和**name**,当设置**name**属性时，**set name(name:string)**方法会执行,如果不需要处理**setter**，那么用**isShow**的形式，一行代码声明即可.
 
 ```
     <app-home [isShow]="isShow" name="姓名"></app-home>
