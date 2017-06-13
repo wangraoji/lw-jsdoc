@@ -49,10 +49,12 @@
 
 ## NG-2 相关
 
-1. **get请求**：[getQuery](ng2/ng2-getQuery.md)
+1. **ng2环境安装**：[ng2-Cil手脚架](ng2/ng2-ng2- componentCommunication.md)
 
-2. **post请求**：[postQuery](./ng2/ng2-postQuery.md)
+2. **get请求**：[getQuery](ng2/ng2-getQuery.md)
 
-3。 **NG报错预览**：[errors](./ng2/ng2-errors.md)
+3. **post请求**：[postQuery](./ng2/ng2-postQuery.md)
+
+4. **NG报错预览**：[errors](./ng2/ng2-errors.md)
 
 --- 
