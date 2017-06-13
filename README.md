@@ -42,7 +42,7 @@
 
 ## NG-2 相关
 
-1. **ng2环境安装**：[ng2-Cli手脚架](ng2/ng2-environmentalScience.md)
+1. **NG2 环境安装**：[ng2-Cli手脚架](ng2/ng2-environmentalScience.md)
 
 2. **get请求**：[getQuery](ng2/ng2-getQuery.md)
 
