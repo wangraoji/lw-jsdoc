@@ -44,9 +44,9 @@
 
 1. **NG2 环境安装**：[ng2-Cli手脚架](ng2/ng2-environmentalScience.md)
 
-2. **get请求**：[getQuery](ng2/ng2-getQuery.md)
+2. **NG2 get请求**：[getQuery](ng2/ng2-getQuery.md)
 
-3. **post请求**：[postQuery](./ng2/ng2-postQuery.md)
+3. **NG2 post请求**：[postQuery](./ng2/ng2-postQuery.md)
 
 4. **NG2 报错预览**：[errors](./ng2/ng2-errors.md)
 
