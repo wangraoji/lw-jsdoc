@@ -39,5 +39,22 @@
     - 输入 **ng-serve** 启动项目：  
     ![04](../imgs/04.png)  
 
-    - 打开浏览器，**http:\/\/localhost:4200**  
+    - 打开浏览器，**http:\/\/localhost:4200**  ，到这环境搭建完成
     ![05](../imgs/05.png) 
+
+* 其他教程请访问：[ng2中文网](https://www.angular.cn/)
+
+##### 通过ng指令建1个分支
+
+* ng generate component home  (home分之名,如果你的项目正在启动，请先结束 Ctrl+c 输y)  
+    ![06](../imgs/06.png) 
+
+* 可以看到它帮我们建了1个文件夹和几个文件。另外自动帮你添加到了module里面了！下面看目录结构：   
+    ![07](../imgs/07.png)
+
+* 然后 **ng serve**启动项目。
+
+* 这时候我们如果打开 **http:\/\/localhost:4200** 是看不到的，还需要在**app.component.html**里面加**\<app-home\>\<\/app-home\>** 用来展示子组件
+
+
+
