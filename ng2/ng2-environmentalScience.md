@@ -24,7 +24,7 @@
 
 * 上面安装完ng2CLI后我们就可以使用ng指令。
 
-    - ng new myAngular2   (myangular2你的项目名)  
+    - **ng new myAngular2**   (myangular2你的项目名)  
     ![01](../imgs/01.png)  
     到这一步之后 Ctrl+c 输入y，因为你不取消它会默认npm去安装依赖项 （npm安装慢）
 
@@ -39,5 +39,5 @@
     - 输入 **ng-serve** 启动项目：  
     ![04](../imgs/04.png)  
 
-    - 打开浏览器，**http:\/\/localhost:4200**
+    - 打开浏览器，**http:\/\/localhost:4200**  
     ![05](../imgs/05.png) 
