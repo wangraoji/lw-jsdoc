@@ -42,17 +42,21 @@
 
 ## NG-2 相关
 
-1. **NG2 环境安装**：[ng2-Cli手脚架](ng2/ng2-environmentalScience.md)
++ **NG2 环境安装**：[ng2-Cli手脚架](ng2/ng2-environmentalScience.md)
 
-2. **NG2 get请求**：[getQuery](ng2/ng2-getQuery.md)
++ **NG2 get请求**：[getQuery](ng2/ng2-getQuery.md)
 
-3. **NG2 post请求**：[postQuery](./ng2/ng2-postQuery.md)
++ **NG2 post请求**：[postQuery](./ng2/ng2-postQuery.md)
 
-4. **NG2 报错预览**：[errors](./ng2/ng2-errors.md)
++ **NG2 组件之间的通讯**：[@Inuput/@Output](ng2/ng2-componentCommunication.md)
 
-5. **NG2 一些组件**：[ng2组件](https://github.com/brillout/awesome-angular-components)
++ **NG2 报错预览**：[errors](./ng2/ng2-errors.md)
 
-6. **NG2 bootstarp样式**：[bootstarp样式](http://valor-software.com/ngx-bootstrap)
++ **NG2 一些组件**：[ng2组件](https://github.com/brillout/awesome-angular-components)
 
-7. **NG2 资源大全**：[资源大全](https://github.com/ascode/awesome-ng2)
++ **NG2 bootstarp样式**：[bootstarp样式](http://valor-software.com/ngx-bootstrap)
+
++ **NG2 资源大全**：[资源大全](https://github.com/ascode/awesome-ng2)
+
+
 --- 

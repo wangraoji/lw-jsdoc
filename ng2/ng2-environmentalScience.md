@@ -34,23 +34,23 @@
     **cnpm install** 安装依赖项，如果你觉得网速很好，也可以不用执行第2步，第一步你就不用取消。
 
     - 安装好后：
-    ![03](../imgs/03.png) 
+    ![03](../imgs/ng2CLI/03.png) 
     
     - 输入 **ng-serve** 启动项目：  
-    ![04](../imgs/04.png)  
+    ![04](../imgs/ng2CLI/04.png)  
 
     - 打开浏览器，**http:\/\/localhost:4200**  ，到这环境搭建完成
-    ![05](../imgs/05.png) 
+    ![05](../imgs/ng2CLI/05.png) 
 
 * 其他教程请访问：[ng2中文网](https://www.angular.cn/)
 
 ##### 通过ng指令建1个分支
 
 * ng generate component home  (home分之名,如果你的项目正在启动，请先结束 Ctrl+c 输y)  
-    ![06](../imgs/06.png) 
+    ![06](../imgs/ng2CLI/06.png) 
 
 * 可以看到它帮我们建了1个文件夹和几个文件。另外自动帮你添加到了module里面了！下面看目录结构：   
-    ![07](../imgs/07.png)
+    ![07](../imgs/ng2CLI/07.png)
 
 * 然后 **ng serve**启动项目。
 
