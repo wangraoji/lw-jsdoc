@@ -98,4 +98,4 @@
 
 ```
 
-* 如有不明白的可移步：[NG2-demo组件之间的通讯](../demo/com)
+* 如有不明白的可移步：[NG2-demo组件之间的通讯](../demo/zujianchuanzhi)
