@@ -43,7 +43,7 @@
 ---
 
 ## NG-2 相关
-
++ **NG2 权威教程电子版**：[ng2-book2](ng2)
 + **NG2 环境安装**：[ng2-Cli手脚架](ng2/ng2-environmentalScience.md)
 
 + **NG2 get请求**：[getQuery](ng2/ng2-getQuery.md)
