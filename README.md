@@ -38,6 +38,8 @@
 
 + **ES6使用**：[ES6基础语法文档](es6/es6.md)
 
++ **typescript泛类**：[any/<T>](typescript/typescript.md)
+
 ---
 
 ## NG-2 相关
