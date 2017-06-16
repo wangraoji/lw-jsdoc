@@ -62,3 +62,8 @@
 
 
 --- 
+
+## 前端调试
++ [console对象](debug/console.md)  
+log()，info()，debug(),warn()，error(),table(),count(),dir(),assert(),time()，timeEnd(),profile()，profileEnd(),group()，groupend()，groupCollapsed(),trace()，clear()...
+
