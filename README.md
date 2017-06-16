@@ -38,7 +38,7 @@
 
 + **ES6使用**：[ES6基础语法文档](es6/es6.md)
 
-+ **typescript泛类**：[any and <T>](typescript/typescript.md)
++ **typescript泛类**：[any and \<T\>](typescript/typescript.md)
 
 ---
 
