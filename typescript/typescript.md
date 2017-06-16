@@ -1,6 +1,6 @@
-### typescript要点
+## typescript要点
 
-##### 泛类
+### 泛类
 
 **介绍**
 
