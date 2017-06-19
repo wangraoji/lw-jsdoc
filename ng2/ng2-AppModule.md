@@ -11,7 +11,6 @@
 ### 报错解决
 
 1. 当运行 **ng serve**时，遇见报错如下：  
-
 ![01](../imgs/ng2Module/1.png)
 
 2. **npm ls typescript**  查看依赖组件。如下图：  
