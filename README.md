@@ -46,6 +46,7 @@
 
 ## NG-2 相关
 + **NG2 权威教程电子版**：[ng2-book2](ng2)
+
 + **NG2 环境安装**：[ng2-Cli手脚架](ng2/ng2-environmentalScience.md)
 
 + **NG2 get请求**：[getQuery](ng2/ng2-getQuery.md)
@@ -53,6 +54,8 @@
 + **NG2 post请求**：[postQuery](./ng2/ng2-postQuery.md)
 
 + **NG2 组件之间的通讯**：[@Inuput/@Output](ng2/ng2-componentCommunication.md)
+
++ **NG2 最常见报错**：[AppModule is not an NgModule](ng2/ng2-AppModule.md)
 
 + **NG2 报错预览**：[errors](./ng2/ng2-errors.md)
 
