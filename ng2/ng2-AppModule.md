@@ -8,7 +8,25 @@
 
 ---
 
-1. **npm ls typescript**  查看依赖组件。如下图：  
+### 报错解决
+
+1. 当运行 **ng serve**时，遇见报错如下：  
+
 ![01](../imgs/ng2Module/1.png)
 
+1. **npm ls typescript**  查看依赖组件。如下图：  
+![02](../imgs/ng2Module/2.png)  
+我们会发现有2个不一样，一个需要依赖的版本2.2.2 一个是已安装的版本2.3.2。  
+
+2. 这时候我们就需要安装一个新的了：**cnpm install typescript -g@2.2.2**  
+![03](../imgs/ng2Module/3.png)  
+
+3. 装好后把 **package.json** 文件中的 **"typescript"** 改为: **"~2.2.2"**。
+
+4. cnpm install重新初始化。（**必须要初始化**）。
+
+5. 再查看一下依赖组件  **npm ls typescript**：如下图：（可省略此步）  
+![04](../imgs/ng2Module/4.png) 
+
+6. **ng serve**完美运行。
 
