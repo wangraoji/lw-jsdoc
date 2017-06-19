@@ -9,6 +9,6 @@
 ---
 
 1. **npm ls typescript**  查看依赖组件。如下图：  
-![01](imgs/ng2Module/1.png)
+![01](../imgs/ng2Module/1.png)
 
 
