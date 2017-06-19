@@ -14,7 +14,7 @@
 
     > 假设数据驱动的话，应该是 1 行是 1个对象， 里面有 A.B.C.D.E 5个子对象。那么我们只要   
     操作数据中B,C对象，把这2列数据结合在一起。页面自然而然就呈现出了  A,BC,D,E 4列了。     
-     
+
     > 可能没做过的有些迷糊，表格的列是跟你对象的个数来的，你只有4个对象了，那么列也变4列了。
 
 * 每个人都有自己不同的理解，我仅表达我自己个人理解，下面我写个最基础的小例子来诠释一下数据驱动。
@@ -47,16 +47,16 @@ DIV的长宽高会变成 100 200 300 400， 当你改变数据时，你不需要
         <h3 class="top">展示区</h3>
         <button (click)='onClick()'>点击获取数据</button>
         <div class="box">
-        <div class="show" [ngStyle]="setStyles"></div>
+            <div class="show" [ngStyle]="setStyles"></div>
         </div>
         `
     ,
     styles: [`
         .top {
-        height: 50px;
-        line-height: 50px;
-        text-align: center;
-        border-bottom: 1px solid #c0c0c0;
+            height: 50px;
+            line-height: 50px;
+            text-align: center;
+            border-bottom: 1px solid #c0c0c0;
         }
         .box {
             height: 500px;
