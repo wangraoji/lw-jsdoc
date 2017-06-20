@@ -88,7 +88,7 @@
     // void 表示没有返回值
     // localStorage有个.clear() 方法清空所有
     // 还有一个 .key() 方法，我这里就不做演示了！
-    public remove(key:string):void {
+    public clear():void {
         this.localStorage.clear();
     }
 ```
