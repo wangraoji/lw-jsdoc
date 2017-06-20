@@ -87,12 +87,27 @@
 ```
     // void 表示没有返回值
     // localStorage有个.clear() 方法清空所有
-    // 还有一个 .key() 方法，我这里就不做演示了！
     public clear():void {
         this.localStorage.clear();
     }
 ```
 
+* local_storage.ts 拓展一个遍历取 键 的方法：
+
+``` 
+    // 注意，这里返回的数组里是所有键值对的键。
+    // 遍历方法是通过 localStorage.length （ localStorage的个数 ）
+    // 加上 localStorage.key(index) 方法取 键 
+    // 所以数组里是一个个的键。
+    public key():any {
+        let arr = [];
+
+        for(let i = 0;i<this.localStorage.length;i++){
+            arr.push(this.localStorage.key(i));
+        }
+        return arr
+    }
+```
 
 * 这时候大家可能发现一个问题，所有东西都是存在 http:4200 下面，要是我做路由 http:4200/pages  下   
 存的，我想在http:4200/pages/test 里面取可以吗？答案是可行的，不管你在哪里个路由存他都是在http:4200   
