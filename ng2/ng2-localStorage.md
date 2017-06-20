@@ -59,6 +59,8 @@
         localStorage = new LocalStorage();
         onSet(){
             this.localStorage.set('name','邪七')
+            // F12 开发人员工具 可以看到 Console 那一排有个 Application，点进去   
+            // 找到左下方有个 local storage，可以看到你设置键值对
         }
         onGet(){
             this.localStorage.get('name');  // 输出邪七 
