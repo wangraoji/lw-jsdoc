@@ -61,7 +61,7 @@
             this.localStorage.set('name','邪七')
         }
         onGet(){
-            this.localStorage.get('name');  // 输入邪七 
+            this.localStorage.get('name');  // 输出邪七 
         }
     }
 
