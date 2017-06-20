@@ -55,6 +55,8 @@
 
 + **NG2 组件之间的通讯**：[@Inuput/@Output](ng2/ng2-componentCommunication.md)
 
++ **NG2 localStorage**：[localStorage设置值取值](ng2/ng2-localStorage.md)
+
 + **NG2 最常见报错**：[AppModule is not an NgModule](ng2/ng2-AppModule.md)
 
 + **NG2 报错预览**：[errors](./ng2/ng2-errors.md)
