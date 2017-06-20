@@ -69,4 +69,32 @@
 
 ```
 
+* 下面看如何存一个对象：
+
+```
+  onSet(){
+    this.localStorage.setObject('data',{'name':'邪七','age':18})
+  }
+  onGet(){
+    console.log(this.title = this.localStorage.getObject('data'));
+    // 输出 {'name':'邪七','age':18}  
+    // 我永远18岁~~~
+  }
+```
+
+* local_storage.ts 也是可以拓展的，前提你需要知道 localstorage有什么方法，我这里添加个清空所有的：
+
+```
+    // void 表示没有返回值
+    // localStorage有个.clear() 方法清空所有
+    // 还有一个 .key() 方法，我这里就不做演示了！
+    public remove(key:string):void {
+        this.localStorage.clear();
+    }
+```
+
+
+
+
+
 
