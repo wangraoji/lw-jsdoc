@@ -5,10 +5,10 @@
 
 2. 下面先来简单的介绍下它的几种用法：  
 
-    **localStorage.setItem(key,value)** 数据存储：
+    **localStorage.setItem( key, value )** 数据存储：
 
            存储的是键值对，key 是键，value 是值。   
-           localStorage.setItem("name","caibin")    
+           localStorage.setItem( "name", "caibin" )    
            localStorage.name = "caibin";   // 等价于上面的命令   
            console.log(localStorage)       // Storage {name: "caibin", length: 1}
 
