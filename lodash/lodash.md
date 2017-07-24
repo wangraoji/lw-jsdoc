@@ -117,8 +117,34 @@
     // => '1,2,3'
 ```
 
++ 数组对象的删除
 
+```
+    let arr1 = [
+        { "age" : 18 },
+        { "age" : 20 }
+    ];
 
+    _.remove(arr1,(el) => el.age === arr1.age);
+
+    简写：
+    let obj1 = { 'age' : 20 };
+    _.remove(arr1,function(obj){
+        return obj1.age === arr1.age
+    });
+    console.info(arr1)   // [ { "age" : 18 }];
+```
+
++ 数组对象的查找
+
+```
+    let arr1 = [
+        { "age" : 18 },
+        { "age" : 20 }
+    ];
+
+    _.some(arr1,{ "age" : 20 });     //  true
+```
 
 
 
