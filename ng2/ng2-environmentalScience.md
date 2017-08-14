@@ -16,7 +16,7 @@
 
 ```
     // 上面我已经装过淘宝镜像了，就可以使用cnpm了。
-    cnpm install @angular-cli -g
+    cnpm install -g @angular/cli 
 ```
 
 
