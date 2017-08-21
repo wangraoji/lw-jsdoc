@@ -1,0 +1,10 @@
+stages:
+- deploy
+deploy:
+  stage: deploy
+  script:
+    - deploy ascode node-web-serve
+  only:
+    - master
+  tags:
+    - firstshared

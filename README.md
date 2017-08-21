@@ -42,6 +42,8 @@
 
 + **前端数据驱动**：[数据驱动的价值](dataDriven/dataDriven.md)
 
++ **服务器简单设置**：[数据驱动的价值](server/server.md)
+
 ---
 
 ## NG-2 相关
