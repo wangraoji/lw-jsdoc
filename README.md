@@ -30,17 +30,17 @@
 + **console.log输出**：
     > var log = console.log.bind(console);  
     > log(xxx);
-+ **Promise**：[用来传递异步操作](peomise/peomise.md)
++ **Promise**：[用来传递异步操作](peomise)
 
-+ **时间戳**：[后台获得的时间戳转换](timeStamp/timeStamp.md)  
++ **时间戳**：[后台获得的时间戳转换](timeStamp)  
 
-+ **Lodash**：[常用的Lodash方法](lodash/lodash.md)  
++ **Lodash**：[常用的Lodash方法](lodash)  
 
-+ **ES6使用**：[ES6基础语法文档](es6/es6.md)
++ **ES6使用**：[ES6基础语法文档](es6)
 
-+ **typescript泛类**：[any and \<T\>](typescript/typescript.md)
++ **typescript泛类**：[any and \<T\>](typescript)
 
-+ **前端数据驱动**：[数据驱动的价值](dataDriven/dataDriven.md)
++ **前端数据驱动**：[数据驱动的价值](dataDriven)
 
 + **服务器简单设置**：[数据驱动的价值](server)
 
