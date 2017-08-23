@@ -69,7 +69,7 @@
 
 + **NG2 资源大全**：[资源大全](https://github.com/ascode/awesome-ng2)
 
-
++ **NG2 打包Dist**：[npm run build:prod](./ng2/ng2-ci.md)
 --- 
 
 ## 前端调试
