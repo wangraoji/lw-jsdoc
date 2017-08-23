@@ -20,7 +20,7 @@
 + 下面就说重点了。
 
     - 首先我们看我们cli项目里的 package.json 里的 build 配置； build:"npm run clean:dist && ng build"
-    - 当我们执行 npm run build:prod 的时候，回去执行 上面那一段，再到 "build:prod": "npm run build -- --prod"。
+    - 当我们执行 npm run build:prod 的时候，它会去执行 上面那一段，再到 "build:prod": "npm run build -- --prod"。
     - 其实 npm run build:prod 就是相当于执行了 ng build --prod，
     - 到了这一段之后，就会可能因为各种问题出错了。
     - 解决方法很简单， 
