@@ -32,6 +32,8 @@
     > log(xxx);
 + **Promise**：[用来传递异步操作](peomise)
 
++ **最基本简单的倒计时**：[jq倒计时](daojishi)
+
 + **时间戳**：[后台获得的时间戳转换](timeStamp)  
 
 + **Lodash**：[常用的Lodash方法](lodash)  
