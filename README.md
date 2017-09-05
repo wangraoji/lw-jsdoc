@@ -50,6 +50,8 @@
 ---
 
 ## NG-2 相关
++ **NG2 事件API**：[ng2-events](https://developer.mozilla.org/en-US/docs/Web/Events);
+
 + **NG2 权威教程电子版**：[ng2-book2](ng2)
 
 + **NG2 环境安装**：[ng2-Cli手脚架](ng2/ng2-environmentalScience.md)
