@@ -47,6 +47,8 @@
 + **服务器简单设置**：[服务器基本使用](server)
 
 + **朋友见解MVC/MVVM**：[非官方](ng2/kanfa.md)
+
++ **HTML特殊字符**:[点击跳转](http://www.cnblogs.com/web-d/archive/2010/04/16/1713298.html);
 ---
 
 ## NG-2 相关
