@@ -52,6 +52,7 @@
 ---
 
 ## NG-2 相关
+
 + **NG2 事件API**：[ng2-events](https://developer.mozilla.org/en-US/docs/Web/Events);
 
 + **NG2 权威教程电子版**：[ng2-book2](ng2)
@@ -77,6 +78,8 @@
 + **NG2 资源大全**：[资源大全](https://github.com/ascode/awesome-ng2)
 
 + **NG2 打包Dist**：[npm run build:prod](./ng2/ng2-ci.md)
+
++ **NG2 常规升级**: [版本的更新](./ng2/ng2-updata.md)
 --- 
 
 ## 前端调试
