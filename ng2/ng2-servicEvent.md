@@ -129,8 +129,10 @@
 
 ~~~
 
-6. 样品试图：
-    ![01](../imgs/ng2ServiceEvent/1.png) ![02](../imgs/ng2ServiceEvent/2.png)   
+6. 样品试图：  
+
+    ![01](../imgs/ng2ServiceEvent/1.png)   
+    ![02](../imgs/ng2ServiceEvent/2.png)   
     不是执行了7次，是我点击了7次。  
 
     ![03](../imgs/ng2ServiceEvent/3.png) 
