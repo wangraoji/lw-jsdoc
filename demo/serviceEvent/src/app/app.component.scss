@@ -1,0 +1,20 @@
+:host /deep/ {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    .tool {
+        height: 30px;
+        border-bottom: 1px solid #c0c0c0;
+    }
+    ul li{
+        list-style: none;
+        float: left;
+        width: 50px;
+        height: 30px;
+        line-height: 30px;
+        text-align: center;
+        cursor: pointer;
+        border-right: 1px solid #c0c0c0;
+    }
+}

@@ -52,34 +52,35 @@
 ---
 
 ## NG-2 相关
++ **01. NG2 环境安装**：[ng2-Cli手脚架](ng2/ng2-environmentalScience.md);
 
-+ **NG2 事件API**：[ng2-events](https://developer.mozilla.org/en-US/docs/Web/Events);
++ **02. NG2 权威教程电子版**：[ng2-book2](ng2)
 
-+ **NG2 权威教程电子版**：[ng2-book2](ng2)
++ **03. NG2 get请求**：[getQuery](ng2/ng2-getQuery.md)
 
-+ **NG2 环境安装**：[ng2-Cli手脚架](ng2/ng2-environmentalScience.md)
++ **04. NG2 post请求**：[postQuery](./ng2/ng2-postQuery.md)
 
-+ **NG2 get请求**：[getQuery](ng2/ng2-getQuery.md)
++ **05. NG2 组件之间的通讯1**：[ @Inuput/@Output](ng2/ng2-componentCommunication.md)
 
-+ **NG2 post请求**：[postQuery](./ng2/ng2-postQuery.md)
++ **06. NG2 事件API**：[ng2-events](https://developer.mozilla.org/en-US/docs/Web/Events);
 
-+ **NG2 组件之间的通讯**：[@Inuput/@Output](ng2/ng2-componentCommunication.md)
++ **07. NG2 localStorage**：[localStorage设置值/取值](ng2/ng2-localStorage.md)
 
-+ **NG2 localStorage**：[localStorage设置值/取值](ng2/ng2-localStorage.md)
++ **08. NG2 最常见报错**：[AppModule is not an NgModule](ng2/ng2-AppModule.md)
 
-+ **NG2 最常见报错**：[AppModule is not an NgModule](ng2/ng2-AppModule.md)
++ **09. NG2 报错预览**：[errors](./ng2/ng2-errors.md)
 
-+ **NG2 报错预览**：[errors](./ng2/ng2-errors.md)
++ **10. NG2 一些组件**：[ng2组件](https://github.com/brillout/awesome-angular-components)
 
-+ **NG2 一些组件**：[ng2组件](https://github.com/brillout/awesome-angular-components)
++ **11. NG2 bootstarp样式**：[bootstarp样式](http://valor-software.com/ngx-bootstrap)
 
-+ **NG2 bootstarp样式**：[bootstarp样式](http://valor-software.com/ngx-bootstrap)
++ **12. NG2 资源大全**：[资源大全](https://github.com/ascode/awesome-ng2)
 
-+ **NG2 资源大全**：[资源大全](https://github.com/ascode/awesome-ng2)
++ **13. NG2 打包Dist**：[npm run build:prod](./ng2/ng2-ci.md)
 
-+ **NG2 打包Dist**：[npm run build:prod](./ng2/ng2-ci.md)
++ **14. NG2 常规升级**: [版本的更新](./ng2/ng2-updata.md)
 
-+ **NG2 常规升级**: [版本的更新](./ng2/ng2-updata.md)
++ **15. NG2 不同组件注册事件**[service传值](./ng2/ng2-servicEvent.md)
 --- 
 
 ## 前端调试
