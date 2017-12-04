@@ -138,7 +138,7 @@
     至于ngInit() 不是指执行一次的问题，上面简述第6点有说明。
 
 
-7. DEMO下载链接：[5分钟](./demo/zujianchuanzhi)  下载下来 cnpm install一下 server跑起来。由于是5分钟DEMO，样式别吐槽！
+7. DEMO下载链接：[5分钟](../demo/serviceEvent)  下载下来 cnpm install一下 server跑起来。由于是5分钟DEMO，样式别吐槽！
 
 
    
