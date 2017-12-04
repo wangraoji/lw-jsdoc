@@ -80,7 +80,7 @@
 
 + **14. NG2 常规升级**: [版本的更新](./ng2/ng2-updata.md)
 
-+ **15. NG2 不同组件注册事件**[service传值](./ng2/ng2-servicEvent.md)
++ **15. NG2 项目内全局组件通过服务传值**：[service传值](./ng2/ng2-servicEvent.md)
 --- 
 
 ## 前端调试
