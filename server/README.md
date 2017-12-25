@@ -9,7 +9,9 @@
 
 ### 描述
 
-+ 把文件上传上去之后，要运行：pm2 start app.js --name="xxx"
++ 把文件上传上去之后，ls查看当前目录，cd 进入项目文件夹，npm install
+
++ 完成后，在当前项目内运行：pm2 start app.js --name "xxx"
 
 + 把项目挂上后，需要开启防火墙。
 
