@@ -87,7 +87,7 @@ ngOnInit(){
         }
     }) 
 
-    // 昨晚处理后的数据
+    // 做完处理后的数据
     this.srv.getData(parm).subscribe((res: any) => {
         log(res); 
         // 输出处理后的数据
