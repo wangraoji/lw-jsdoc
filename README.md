@@ -83,6 +83,8 @@
 + **15. NG2 项目内全局组件通过服务传值**：[service传值](./ng2/ng2-servicEvent.md)
 
 + **16. NG5 验证库**:[验证库](./ng2/ng5-validator.md)
+
++ **17. NG5 httpClient封装**:[httpClient用法](./ng2/ng5-httpClient.md)
 --- 
 
 ## 前端调试
