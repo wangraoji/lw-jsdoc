@@ -70,5 +70,4 @@
 
 + 访问更多[npm pm2](https://www.npmjs.com/package/pm2)
 
-https://www.linuxidc.com/Linux/2016-09/134907.htm
-linux系统下安装nginx
++ https://www.linuxidc.com/Linux/2016-09/134907.htm linux系统下安装nginx
