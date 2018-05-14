@@ -85,6 +85,8 @@
 + **16. NG5 验证库**:[验证库](./ng2/ng5-validator.md)
 
 + **17. NG5 httpClient封装**:[httpClient用法](./ng2/ng5-httpClient.md)
+
++ **18. NG6 2-6 js转ts**:[js转义ts](./ng2/ng6-jsTranlateTs.md)
 --- 
 
 ## 前端调试
