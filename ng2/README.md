@@ -7,5 +7,3 @@
 书中所有demo：[ng2-book](https://github.com/ng-book2/code)
 
 在这里我狠狠的BS下那些拿着资源倒卖的人！
-
-<span style="color:red">很好</span>
